@@ -5,8 +5,15 @@ Day 1 of 20
   Elixir of the Mongoose, 4, 6
   Aged Brie, 3, 10
   Aged Brie, 0, 50
+  Aged Stilton, 0, 30
+  Aged Elvish Wine, 0, 30
   Backstage passes to a TAFKAL80ETC concert, 14, 18
+  Backstage passes to the Rat Queens, 14, 18
+  Backstage passes to the Hard Rock Troll Orchestra, 14, 18
   Backstage passes to a TAFKAL80ETC concert, 4, 50
+  Conjured boots of discomfort, 4, 47
+  Conjured loincloth, 4, 47
+  Conjured fake beard, 4, 47
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 2 of 20
   Mail Armour, 8, 18
@@ -15,8 +22,15 @@ Day 2 of 20
   Elixir of the Mongoose, 3, 5
   Aged Brie, 2, 11
   Aged Brie, -1, 50
+  Aged Stilton, -1, 32
+  Aged Elvish Wine, -1, 32
   Backstage passes to a TAFKAL80ETC concert, 13, 19
+  Backstage passes to the Rat Queens, 13, 19
+  Backstage passes to the Hard Rock Troll Orchestra, 13, 19
   Backstage passes to a TAFKAL80ETC concert, 3, 50
+  Conjured boots of discomfort, 3, 45
+  Conjured loincloth, 3, 45
+  Conjured fake beard, 3, 45
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 3 of 20
   Mail Armour, 7, 17
@@ -25,8 +39,15 @@ Day 3 of 20
   Elixir of the Mongoose, 2, 4
   Aged Brie, 1, 12
   Aged Brie, -2, 50
+  Aged Stilton, -2, 34
+  Aged Elvish Wine, -2, 34
   Backstage passes to a TAFKAL80ETC concert, 12, 20
+  Backstage passes to the Rat Queens, 12, 20
+  Backstage passes to the Hard Rock Troll Orchestra, 12, 20
   Backstage passes to a TAFKAL80ETC concert, 2, 50
+  Conjured boots of discomfort, 2, 43
+  Conjured loincloth, 2, 43
+  Conjured fake beard, 2, 43
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 4 of 20
   Mail Armour, 6, 16
@@ -35,8 +56,15 @@ Day 4 of 20
   Elixir of the Mongoose, 1, 3
   Aged Brie, 0, 13
   Aged Brie, -3, 50
+  Aged Stilton, -3, 36
+  Aged Elvish Wine, -3, 36
   Backstage passes to a TAFKAL80ETC concert, 11, 21
+  Backstage passes to the Rat Queens, 11, 21
+  Backstage passes to the Hard Rock Troll Orchestra, 11, 21
   Backstage passes to a TAFKAL80ETC concert, 1, 50
+  Conjured boots of discomfort, 1, 41
+  Conjured loincloth, 1, 41
+  Conjured fake beard, 1, 41
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 5 of 20
   Mail Armour, 5, 15
@@ -45,8 +73,15 @@ Day 5 of 20
   Elixir of the Mongoose, 0, 2
   Aged Brie, -1, 15
   Aged Brie, -4, 50
+  Aged Stilton, -4, 38
+  Aged Elvish Wine, -4, 38
   Backstage passes to a TAFKAL80ETC concert, 10, 22
+  Backstage passes to the Rat Queens, 10, 22
+  Backstage passes to the Hard Rock Troll Orchestra, 10, 22
   Backstage passes to a TAFKAL80ETC concert, 0, 50
+  Conjured boots of discomfort, 0, 39
+  Conjured loincloth, 0, 39
+  Conjured fake beard, 0, 39
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 6 of 20
   Mail Armour, 4, 14
@@ -55,8 +90,15 @@ Day 6 of 20
   Elixir of the Mongoose, -1, 0
   Aged Brie, -2, 17
   Aged Brie, -5, 50
+  Aged Stilton, -5, 40
+  Aged Elvish Wine, -5, 40
   Backstage passes to a TAFKAL80ETC concert, 9, 24
+  Backstage passes to the Rat Queens, 9, 24
+  Backstage passes to the Hard Rock Troll Orchestra, 9, 24
   Backstage passes to a TAFKAL80ETC concert, -1, 0
+  Conjured boots of discomfort, -1, 35
+  Conjured loincloth, -1, 35
+  Conjured fake beard, -1, 35
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 7 of 20
   Mail Armour, 3, 13
@@ -65,8 +107,15 @@ Day 7 of 20
   Elixir of the Mongoose, -2, 0
   Aged Brie, -3, 19
   Aged Brie, -6, 50
+  Aged Stilton, -6, 42
+  Aged Elvish Wine, -6, 42
   Backstage passes to a TAFKAL80ETC concert, 8, 26
+  Backstage passes to the Rat Queens, 8, 26
+  Backstage passes to the Hard Rock Troll Orchestra, 8, 26
   Backstage passes to a TAFKAL80ETC concert, -2, 0
+  Conjured boots of discomfort, -2, 31
+  Conjured loincloth, -2, 31
+  Conjured fake beard, -2, 31
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 8 of 20
   Mail Armour, 2, 12
@@ -75,8 +124,15 @@ Day 8 of 20
   Elixir of the Mongoose, -3, 0
   Aged Brie, -4, 21
   Aged Brie, -7, 50
+  Aged Stilton, -7, 44
+  Aged Elvish Wine, -7, 44
   Backstage passes to a TAFKAL80ETC concert, 7, 28
+  Backstage passes to the Rat Queens, 7, 28
+  Backstage passes to the Hard Rock Troll Orchestra, 7, 28
   Backstage passes to a TAFKAL80ETC concert, -3, 0
+  Conjured boots of discomfort, -3, 27
+  Conjured loincloth, -3, 27
+  Conjured fake beard, -3, 27
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 9 of 20
   Mail Armour, 1, 11
@@ -85,8 +141,15 @@ Day 9 of 20
   Elixir of the Mongoose, -4, 0
   Aged Brie, -5, 23
   Aged Brie, -8, 50
+  Aged Stilton, -8, 46
+  Aged Elvish Wine, -8, 46
   Backstage passes to a TAFKAL80ETC concert, 6, 30
+  Backstage passes to the Rat Queens, 6, 30
+  Backstage passes to the Hard Rock Troll Orchestra, 6, 30
   Backstage passes to a TAFKAL80ETC concert, -4, 0
+  Conjured boots of discomfort, -4, 23
+  Conjured loincloth, -4, 23
+  Conjured fake beard, -4, 23
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 10 of 20
   Mail Armour, 0, 10
@@ -95,8 +158,15 @@ Day 10 of 20
   Elixir of the Mongoose, -5, 0
   Aged Brie, -6, 25
   Aged Brie, -9, 50
+  Aged Stilton, -9, 48
+  Aged Elvish Wine, -9, 48
   Backstage passes to a TAFKAL80ETC concert, 5, 32
+  Backstage passes to the Rat Queens, 5, 32
+  Backstage passes to the Hard Rock Troll Orchestra, 5, 32
   Backstage passes to a TAFKAL80ETC concert, -5, 0
+  Conjured boots of discomfort, -5, 19
+  Conjured loincloth, -5, 19
+  Conjured fake beard, -5, 19
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 11 of 20
   Mail Armour, -1, 8
@@ -105,8 +175,15 @@ Day 11 of 20
   Elixir of the Mongoose, -6, 0
   Aged Brie, -7, 27
   Aged Brie, -10, 50
+  Aged Stilton, -10, 50
+  Aged Elvish Wine, -10, 50
   Backstage passes to a TAFKAL80ETC concert, 4, 35
+  Backstage passes to the Rat Queens, 4, 35
+  Backstage passes to the Hard Rock Troll Orchestra, 4, 35
   Backstage passes to a TAFKAL80ETC concert, -6, 0
+  Conjured boots of discomfort, -6, 15
+  Conjured loincloth, -6, 15
+  Conjured fake beard, -6, 15
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 12 of 20
   Mail Armour, -2, 6
@@ -115,8 +192,15 @@ Day 12 of 20
   Elixir of the Mongoose, -7, 0
   Aged Brie, -8, 29
   Aged Brie, -11, 50
+  Aged Stilton, -11, 50
+  Aged Elvish Wine, -11, 50
   Backstage passes to a TAFKAL80ETC concert, 3, 38
+  Backstage passes to the Rat Queens, 3, 38
+  Backstage passes to the Hard Rock Troll Orchestra, 3, 38
   Backstage passes to a TAFKAL80ETC concert, -7, 0
+  Conjured boots of discomfort, -7, 11
+  Conjured loincloth, -7, 11
+  Conjured fake beard, -7, 11
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 13 of 20
   Mail Armour, -3, 4
@@ -125,8 +209,15 @@ Day 13 of 20
   Elixir of the Mongoose, -8, 0
   Aged Brie, -9, 31
   Aged Brie, -12, 50
+  Aged Stilton, -12, 50
+  Aged Elvish Wine, -12, 50
   Backstage passes to a TAFKAL80ETC concert, 2, 41
+  Backstage passes to the Rat Queens, 2, 41
+  Backstage passes to the Hard Rock Troll Orchestra, 2, 41
   Backstage passes to a TAFKAL80ETC concert, -8, 0
+  Conjured boots of discomfort, -8, 7
+  Conjured loincloth, -8, 7
+  Conjured fake beard, -8, 7
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 14 of 20
   Mail Armour, -4, 2
@@ -135,8 +226,15 @@ Day 14 of 20
   Elixir of the Mongoose, -9, 0
   Aged Brie, -10, 33
   Aged Brie, -13, 50
+  Aged Stilton, -13, 50
+  Aged Elvish Wine, -13, 50
   Backstage passes to a TAFKAL80ETC concert, 1, 44
+  Backstage passes to the Rat Queens, 1, 44
+  Backstage passes to the Hard Rock Troll Orchestra, 1, 44
   Backstage passes to a TAFKAL80ETC concert, -9, 0
+  Conjured boots of discomfort, -9, 3
+  Conjured loincloth, -9, 3
+  Conjured fake beard, -9, 3
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 15 of 20
   Mail Armour, -5, 0
@@ -145,8 +243,15 @@ Day 15 of 20
   Elixir of the Mongoose, -10, 0
   Aged Brie, -11, 35
   Aged Brie, -14, 50
+  Aged Stilton, -14, 50
+  Aged Elvish Wine, -14, 50
   Backstage passes to a TAFKAL80ETC concert, 0, 47
+  Backstage passes to the Rat Queens, 0, 47
+  Backstage passes to the Hard Rock Troll Orchestra, 0, 47
   Backstage passes to a TAFKAL80ETC concert, -10, 0
+  Conjured boots of discomfort, -10, 0
+  Conjured loincloth, -10, 0
+  Conjured fake beard, -10, 0
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 16 of 20
   Mail Armour, -6, 0
@@ -155,8 +260,15 @@ Day 16 of 20
   Elixir of the Mongoose, -11, 0
   Aged Brie, -12, 37
   Aged Brie, -15, 50
+  Aged Stilton, -15, 50
+  Aged Elvish Wine, -15, 50
   Backstage passes to a TAFKAL80ETC concert, -1, 0
+  Backstage passes to the Rat Queens, -1, 0
+  Backstage passes to the Hard Rock Troll Orchestra, -1, 0
   Backstage passes to a TAFKAL80ETC concert, -11, 0
+  Conjured boots of discomfort, -11, 0
+  Conjured loincloth, -11, 0
+  Conjured fake beard, -11, 0
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 17 of 20
   Mail Armour, -7, 0
@@ -165,8 +277,15 @@ Day 17 of 20
   Elixir of the Mongoose, -12, 0
   Aged Brie, -13, 39
   Aged Brie, -16, 50
+  Aged Stilton, -16, 50
+  Aged Elvish Wine, -16, 50
   Backstage passes to a TAFKAL80ETC concert, -2, 0
+  Backstage passes to the Rat Queens, -2, 0
+  Backstage passes to the Hard Rock Troll Orchestra, -2, 0
   Backstage passes to a TAFKAL80ETC concert, -12, 0
+  Conjured boots of discomfort, -12, 0
+  Conjured loincloth, -12, 0
+  Conjured fake beard, -12, 0
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 18 of 20
   Mail Armour, -8, 0
@@ -175,8 +294,15 @@ Day 18 of 20
   Elixir of the Mongoose, -13, 0
   Aged Brie, -14, 41
   Aged Brie, -17, 50
+  Aged Stilton, -17, 50
+  Aged Elvish Wine, -17, 50
   Backstage passes to a TAFKAL80ETC concert, -3, 0
+  Backstage passes to the Rat Queens, -3, 0
+  Backstage passes to the Hard Rock Troll Orchestra, -3, 0
   Backstage passes to a TAFKAL80ETC concert, -13, 0
+  Conjured boots of discomfort, -13, 0
+  Conjured loincloth, -13, 0
+  Conjured fake beard, -13, 0
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 19 of 20
   Mail Armour, -9, 0
@@ -185,8 +311,15 @@ Day 19 of 20
   Elixir of the Mongoose, -14, 0
   Aged Brie, -15, 43
   Aged Brie, -18, 50
+  Aged Stilton, -18, 50
+  Aged Elvish Wine, -18, 50
   Backstage passes to a TAFKAL80ETC concert, -4, 0
+  Backstage passes to the Rat Queens, -4, 0
+  Backstage passes to the Hard Rock Troll Orchestra, -4, 0
   Backstage passes to a TAFKAL80ETC concert, -14, 0
+  Conjured boots of discomfort, -14, 0
+  Conjured loincloth, -14, 0
+  Conjured fake beard, -14, 0
   Sulfuras, Hand of Ragnaros, -1, 80
 Day 20 of 20
   Mail Armour, -10, 0
@@ -195,6 +328,13 @@ Day 20 of 20
   Elixir of the Mongoose, -15, 0
   Aged Brie, -16, 45
   Aged Brie, -19, 50
+  Aged Stilton, -19, 50
+  Aged Elvish Wine, -19, 50
   Backstage passes to a TAFKAL80ETC concert, -5, 0
+  Backstage passes to the Rat Queens, -5, 0
+  Backstage passes to the Hard Rock Troll Orchestra, -5, 0
   Backstage passes to a TAFKAL80ETC concert, -15, 0
+  Conjured boots of discomfort, -15, 0
+  Conjured loincloth, -15, 0
+  Conjured fake beard, -15, 0
   Sulfuras, Hand of Ragnaros, -1, 80

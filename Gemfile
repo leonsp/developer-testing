@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 source 'https://rubygems.org'
 
 # Approval testing
@@ -12,4 +13,5 @@ gem 'mutant-rspec'
 
 gem 'rake'
 gem 'rspec'
+gem 'rubocop'
 gem 'simplecov'
